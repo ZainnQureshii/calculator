@@ -1,0 +1,27 @@
+c:\users\dell\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\dell\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\dell\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\SHS\Downloads\Calculator-20170924T195917Z-001\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\SHS\Downloads\Calculator-20170924T195917Z-001\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\SHS\Downloads\Calculator-20170924T195917Z-001\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\SHS\Downloads\Calculator-20170924T195917Z-001\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\SHS\Downloads\Calculator-20170924T195917Z-001\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SHS\Downloads\Calculator-20170924T195917Z-001\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\SHS\Downloads\Calculator-20170924T195917Z-001\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\SHS\Downloads\Calculator-20170924T195917Z-001\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\SHS\Downloads\Calculator-20170924T195917Z-001\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
